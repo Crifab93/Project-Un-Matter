@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 115
+  controlID: 117
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 72
+  controlID: 74
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 48
+  controlID: 50
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -369,23 +369,23 @@ MonoBehaviour:
     height: 439
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: c2aaf9ff4670faffe0a9faff4a92fdffe6fbfffff2fbfffffefbffff18fcffff00000000c8280000
+    m_SelectedIDs: 50d4fbff
+    m_LastClickedID: -273328
+    m_ExpandedIDs: 9cd9ffff3edbffffbee7ffff18fcffff00000000ee280000a02c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Block (5)
-      m_OriginalName: Block (5)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -349728
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 8}
     m_SearchString: 
@@ -421,14 +421,14 @@ MonoBehaviour:
     width: 912
     height: 439
   m_SceneLighting: 1
-  lastFramingTime: 3515.905114751741
+  lastFramingTime: 4481.202612933111
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.434477, y: 1.3309815, z: 2.7772102}
+    m_Target: {x: 0, y: 0.8, z: 0}
     speed: 2
-    m_Value: {x: -8.434477, y: 1.3309815, z: 2.7772102}
+    m_Value: {x: 0, y: 0.8, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -451,18 +451,18 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.016685197, y: -0.9817229, z: 0.15925176, w: -0.10286268}
+    m_Target: {x: 0.07911596, y: 0.8998394, z: -0.38769814, w: 0.1836297}
     speed: 2
-    m_Value: {x: -0.016685197, y: -0.9817229, z: 0.15925176, w: -0.10286268}
+    m_Value: {x: 0.07911596, y: 0.8998394, z: -0.38769814, w: 0.1836297}
   m_Size:
-    m_Target: 6.622279
+    m_Target: 13.090555
     speed: 2
-    m_Value: 6.622279
+    m_Value: 13.090555
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: -0.012051855, y: 0.97102976, z: -0.23332529, w: -0.050152592}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -543,10 +543,10 @@ MonoBehaviour:
   m_LastProjectPath: C:\Users\crifa\Documents\GitHub\Project-Un-Matter\Project (Un)Matter
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 95}
-    m_SelectedIDs: 32280000
-    m_LastClickedID: 10290
-    m_ExpandedIDs: 00000000aa26000034270000122800005228000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 3e280000
+    m_LastClickedID: 10302
+    m_ExpandedIDs: 00000000ac26000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -574,7 +574,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000aa260000342700001228000052280000
+    m_ExpandedIDs: 00000000ac2600003c2700001e2800005e280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -723,7 +723,7 @@ MonoBehaviour:
     y: 92
     width: 416
     height: 710
-  m_ScrollPosition: {x: 0, y: 0}
+  m_ScrollPosition: {x: 0, y: 266.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: -160
